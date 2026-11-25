@@ -1,0 +1,6 @@
+# build output (Vercel / Cloudflare rebuild it with `node website/build.mjs`)
+website/dist/
+website/tools/.frames/
+node_modules/
+.DS_Store
+*.log
